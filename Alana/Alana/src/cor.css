@@ -1,0 +1,25 @@
+:root{
+    --cor1:#340A2E;
+    --cor2:#12000C;
+    --cor3:#DC21B8;
+    --cor4:#4AC0FD;
+    --cor5:#FCFCF2;
+    
+}
+/*
+gradiente1 vinho escuro para vinho claro radial
+background: rgb(18,0,12);
+background: -moz-radial-gradient(circle, rgba(18,0,12,1) 44%, rgba(52,10,46,1) 100%);
+background: -webkit-radial-gradient(circle, rgba(18,0,12,1) 44%, rgba(52,10,46,1) 100%);
+background: radial-gradient(circle, rgba(18,0,12,1) 44%, rgba(52,10,46,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#12000c",endColorstr="#340a2e",GradientType=1);
+*/
+
+/*
+gradiente2 pink para azul
+background: rgb(74,192,253);
+background: -moz-radial-gradient(circle, rgba(74,192,253,1) 44%, rgba(220,33,184,1) 100%);
+background: -webkit-radial-gradient(circle, rgba(74,192,253,1) 44%, rgba(220,33,184,1) 100%);
+background: radial-gradient(circle, rgba(74,192,253,1) 44%, rgba(220,33,184,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#4ac0fd",endColorstr="#dc21b8",GradientType=1);
+*/
