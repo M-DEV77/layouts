@@ -4,6 +4,7 @@ export default function Balao(props){
     let letra = props.tamanho/5+"vw"
     const Bal =styled.div`
     position: absolute;
+    z-index: ${props.eixoZ};
     top:${props.x+"vw"};
     left: ${props.y+"vw"};
     width: ${props.tamanho+"vw"};
